@@ -1,0 +1,267 @@
+{
+  "firstname": "Emmy",
+  "lastname": "Chavez",
+  "contact": {
+    "email": "EmelyBChavez@gmail.com",
+    "phone": "(973) 337-3488",
+    "website": "emelybchavez.wordpress.com",
+    "linkedin": "Linkedin.com/in/emelybee/",
+    "github": "Github.com/emmysilly"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": [
+          "CSS",
+          "Java",
+          "C++",
+          "Javascript",
+          "HTML"
+        ]
+      },
+      {
+        "type": "Web Frameworks",
+        "items": [
+          "Django"
+        ]
+      },
+      {
+        "type": "Tools",
+        "items": [
+          "Git"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "IOS Development",
+          "Machine Learning",
+          "Web Development"
+        ]
+      }
+    ]
+  },
+  "github_projects": {
+    "items": [
+      {
+        "project_name": "Mardea-s/finalproject",
+        "tagline": "[shashafierce.pythonanywhere.com](http://shashafierce.pythonanywhere.com/)",
+        "description": [
+          "• Built a website called “BreatheEasy” to educate and help teenagers with their mental health."
+        ],
+        "technology_used": {
+          "tools": [
+            "Bootstrap",
+            "Django",
+            "Pythonanywhere"
+          ]
+        }
+      },
+      {
+        "project_name": "emmysilly/emmysilly.github.io",
+        "tagline": "[emmysilly.github.io](emmysilly.github.io/About/index.html)",
+        "description": [
+          "Using skills I learned at Kode with Klossy Camp to make a presentation about my friend Claire."
+        ],
+        "technology_used": {
+          "tools": [
+            "HTML",
+            "CSS"
+          ]
+        }
+      }
+    ]
+  },
+  "other_projects": {
+    "items": [
+      {
+        "headline": "Designed a focusing on Equaily, with VR embed web app showing people what it is like to be a women in a workspace.",
+        "points": [
+          "Worked with 2 others girls from Kode with Klossy Camp.  <<She-quality.netlify.com>>"
+        ],
+        "technology_used": {
+          "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "AJAX",
+            "A-Frame"
+          ]
+        }
+      }
+    ]
+  },
+  "work_experience": {
+    "items": [
+      {
+        "title": "Fellow",
+        "organization": "Rewriting the Code",
+        "location": "New York, NY",
+        "from": "Aug. 2018",
+        "to": "Present",
+        "details": [
+          "Engaging in club-run events such as professional speakers, educational workshops, and guidance of professional endeavors. Leading and teaching a Facebook group about UX/UI"
+        ],
+        "technology_used": {
+          "tools": [
+            "UX/UI"
+          ]
+        }
+      },
+      {
+        "title": "Scholar",
+        "organization": "Kode With Klossy",
+        "location": "New York, NY",
+        "from": "Aug. 2018",
+        "to": "Aug. 2018",
+        "details": [
+          "•Learning front-end development by developing proficiency in HTML, CSS, JavaScript, jQuery, AJAX and A-Frame with 18 other selected girls in a course of 2 weeks. Collaborating in a team of three to build a VR embed web app"
+        ],
+        "technology_used": {
+          "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "AJAX",
+            "A-Frame"
+          ]
+        }
+      },
+      {
+        "title": "Intern",
+        "organization": "LARUICCI",
+        "location": "New York, NY",
+        "from": "June 2018",
+        "to": "August 2018",
+        "details": [
+          "Ensured proper presentation, organization, and storing of jewelry. Designed and repaired quality jewelry. Proposed and executed technical solutions for issues for LARUICCI's main website"
+        ],
+        "technology_used": {
+          "tools": [
+            "UX/UI"
+          ]
+        }
+      },
+      {
+        "title": "Mentee",
+        "organization": "Built By Girls",
+        "location": "New York, NY",
+        "from": "Feb. 2018",
+        "to": "Aug. 2018",
+        "details": [
+          "Shadowed three mentors in the technology, music, and engineering fields to learn about their work. Visited different companies to explore about how technology is incorporated in their respective fields"
+        ]
+      },
+      {
+        "title": "Mentee",
+        "organization": "Out in Tech",
+        "location": "New York, NY",
+        "from": "Feb. 2018",
+        "to": "June 2018",
+        "details": [
+          "Met with my mentor twice a week, focusing on my portfolio website, LinkedIn profile, resumes, networking, and internship applications. Attended panel discussions, workshops, and presented my portfolio in our graduation ceremony"
+        ],
+        "technology_used": {
+          "tools": [
+            "Wordpress",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "title": "Student",
+        "organization": "Facebook",
+        "location": "New York, NY",
+        "from": "June. 2018",
+        "to": "June 2018",
+        "details": [
+          "Built a strong technical foundation, an insight into resume writing, and internship application submissions"
+        ]
+      },
+      {
+        "title": "DigiGirlz Student",
+        "organization": "Mircosoft",
+        "location": "New York, NY",
+        "from": "May. 2018",
+        "to": "May 2018",
+        "details": [
+          "Interacted with Microsoft employees and managers to gain exposure to careers in business and technology and got an inside look at what it's like to work at Microsoft. Provided with career planning assistance, information about technology and business roles, thought-provoking exercises, and interesting Microsoft product demonstrations"
+        ]
+      },
+      {
+        "title": "Summer Immersion Program",
+        "organization": "Girls Who Code",
+        "location": "New York, NY",
+        "from": "July. 2017",
+        "to": "Aug. 2017",
+        "details": [
+          " Built a website called “BreatheEasy” to educate and help teenagers with their mental health. Learned Pythonanywhere, Bootstrap, and Django Web Framework"
+        ],
+        "technology_used": {
+          "tools": [
+            "Bootstrap",
+            "Django",
+            "Python",
+            "HTML"
+          ]
+        }
+      }
+    ]
+  },
+  "involvement": {
+    "organizations": [
+      "Relay For Life, Team Captain, Track fundraising progress and attend weekly organizing meetings and 50 Hours of volunteer work",
+      "Nutley Police Academy, Squad Leader, Supervise and give drill commands to 60 participating kids and 30 Hours of Volunteer Work"
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Won 1<sup>st</sup> place at Google Unity Hackathon, August 2018",
+      "Mr. John J. Vitkovsky Award 2018",
+      "Raider Achievement Award 2018"
+    ]
+  },
+  "additional_info": {
+    "items": [
+      "Languages: English (fluent), Spanish (proficient), ASL (basic)",
+      "Interests: Music Production, Reading, Drumline."
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Bachelor of Arts",
+        "major": "Computing and Informatics",
+        "institution": "Rowan University",
+        "graduation_year": 2022
+      }
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": "Intro to Computer Science Programing-Java",
+      "url": "https://sites.rowan.edu/student-success/tutoring/intro-scientific-programming.html"
+    },
+    {
+      "name": "Computer Science & Programing",
+      "url": "https://rowanu.com/courses/cs04103"
+    },
+    {
+      "name": "Copmuter Technology & Music",
+      "url": "https://academics.rowan.edu/cpa/music/divisions/MusicIndustry.html"
+    },
+    {
+      "name": "College Composition I",
+      "url": "https://www.rowanfyw.org/cci"
+    }
+  ],
+  "show_assessments_on_resume": {
+    "required_assessment": true,
+    "optional_assessment_level_1": true,
+    "optional_assessment_level_2": true,
+    "optional_assessment_level_3": true
+  }
+}
